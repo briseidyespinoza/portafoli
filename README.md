@@ -6,7 +6,7 @@ Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web dond
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![Primera parte de la página web](imagenes/foto1.png)
 
 Experiencia:
 
